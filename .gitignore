@@ -1,0 +1,4 @@
+node_modules/
+.env
+*.log
+dhara-ba733-firebase-adminsdk-fbsvc-*.json
